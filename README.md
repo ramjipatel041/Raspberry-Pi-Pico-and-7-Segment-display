@@ -5,7 +5,7 @@ Here we are going to interface a Seven segment LED display with Raspberry Pi Pic
 # Connections of common cathode Seven segment with Raspberry Pi Pico
 Connect the common cathode pin of the segment LED to GND pin of Raspberry Pi Pico.
 Connect the rest segment pins to the Raspberry Pi Pico, in series with 100 ohm current limiting resistors with given wiring scheme.
-a------> GPIO0\n
+a------> GPIO0
 b------> GPIO1
 c------> GPIO2
 d------> GPIO3
