@@ -96,13 +96,6 @@ def display(num):
             e.value(0)
             f.value(1)
             g.value(1)
-
-
-    
-
- 
-
-    
 while True:
     for i in range(10):
         display(str(i))
